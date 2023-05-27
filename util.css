@@ -1,3 +1,26 @@
 .flex{
     display: flex;
 }
+
+.item-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.font{
+    font-family: Arial, serif;
+    font-size: small;
+    color: black;
+}
+
+
